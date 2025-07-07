@@ -1,4 +1,4 @@
 INSERT INTO Employees (FirstName, LastName, Email, Salary)
 VALUES
- ('John', 'Doe', 'john.doe@company.com', 50000.00),
- ('Jane', 'Smith', 'jane.smith@company.com', 55000.00);
+ ('Shashank', 'Dimri', 'shashankdimri28@gmail.com', 1.00),
+ ('AppliedInfo', 'Services', 'shashankdimri2003@gmail.com', 2.00);
